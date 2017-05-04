@@ -1,6 +1,6 @@
 {
   "name": "gulp-inline-sourcemap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "gulp task to encode sourceMaps to inline base64 data URI",
   "main": "index.js",
   "homepage": "https://github.com/loaded02/gulp-inline-sourcemap",
