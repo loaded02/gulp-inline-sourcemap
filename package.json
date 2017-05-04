@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "gulp task to encode sourceMaps to inline base64 data URI",
   "main": "index.js",
-  "homepage": "http://www.betterbits.de",
+  "homepage": "https://github.com/loaded02/gulp-inline-sourcemap",
+  "repository": "https://github.com/loaded02/gulp-inline-sourcemap",
   "keywords": [
     "gulpplugin",
     "data-uri",
@@ -13,7 +14,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Moritz Hilberg",
+  "author": "loaded02",
   "license": "MIT",
   "dependencies": {
     "through2": "~0.4.1",
