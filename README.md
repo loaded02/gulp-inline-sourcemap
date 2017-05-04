@@ -11,12 +11,10 @@ Install with [npm](https://npmjs.org)
 npm install gulp-inline-sourcemap --save-dev
 ```
 
-NPM NOT YET SUPPORTED!!!
-
 ## Example usage
 ```js
 var gulp = require('gulp');
-var inlineSourceMap = require('../gulpInlineSourcemap/index'); // local gulpPlugin
+var inlineSourceMap = require('gulp-inline-sourcemap');
 
 //basic example
 gulp.task('build', function () {
