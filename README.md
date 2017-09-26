@@ -1,7 +1,7 @@
-[![npm version](https://badge.fury.io/js/gulp-inline-sourcemap.svg)](https://badge.fury.io/js/gulp-inline-sourcemap)
-
 gulp-inline-sourcemap
 ===========
+
+[![NPM](https://nodei.co/npm/gulp-inline-sourcemap.png)](https://npmjs.org/package/gulp-inline-sourcemap)
 
 Gulp task for appending external SourceMap to the end of js-bundle (those within a //# sourceMappingURL=... declaration) into base64-encoded data URI strings.
 
