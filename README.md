@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/gulp-inline-sourcemap.svg)](https://badge.fury.io/js/gulp-inline-sourcemap)
+
 gulp-inline-sourcemap
 ===========
 
